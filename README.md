@@ -4,7 +4,7 @@
 
 | Identificator | Project | Reporter | Assigned To | Priority | Severity | Reproducibility | Product Version | Category | Reported On | OS | OS Version | Platform | Visibility | Last Update | Status | Solution |
 |---------------|---------|----------|-------------|----------|----------|------------------|------------------|----------|--------------|----|------------|----------|------------|-------------|-------|----------|
-| 2684          | kuczynskaa | kuczynskaa | - | Immediate | Blocking | Not attempted | 115.0.5790.171 | Functional | 2023-08-11 | Windows 10 | 115.0.5790.171 | Google Chrome | Private | 2023-08-18 | Open | [skleptest.pl] Brak e-maila potwierdzającego złożenie zamówienia |
+| 2684          | kalinowska | kalinowska | - | Immediate | Blocking | Not attempted | 115.0.5790.171 | Functional | 2023-08-11 | Windows 10 | 115.0.5790.171 | Google Chrome | Private | 2023-08-18 | Open | [skleptest.pl] Brak e-maila potwierdzającego złożenie zamówienia |
 
 
 ## General Notes
