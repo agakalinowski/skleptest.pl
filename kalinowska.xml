@@ -3,12 +3,12 @@
  xmlns:x="urn:schemas-microsoft-com:office:excel"
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
- <Worksheet ss:Name="kuczynskaa">
+ <Worksheet ss:Name="kalinowska">
 <Table>
 <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
 <Row><Cell><Data ss:Type="String">Identyfikator</Data></Cell><Cell><Data ss:Type="String">Projekt</Data></Cell><Cell><Data ss:Type="String">Zgłaszający</Data></Cell><Cell><Data ss:Type="String">Przypisany do</Data></Cell><Cell><Data ss:Type="String">Priorytet</Data></Cell><Cell><Data ss:Type="String">Ważność</Data></Cell><Cell><Data ss:Type="String">Powtarzalność</Data></Cell><Cell><Data ss:Type="String">Wersja produktu</Data></Cell><Cell><Data ss:Type="String">Kategoria</Data></Cell><Cell><Data ss:Type="String">Data zgłoszenia</Data></Cell><Cell><Data ss:Type="String">System operacyjny</Data></Cell><Cell><Data ss:Type="String">Wersja systemu</Data></Cell><Cell><Data ss:Type="String">Platforma</Data></Cell><Cell><Data ss:Type="String">Widoczność</Data></Cell><Cell><Data ss:Type="String">Aktualizacja</Data></Cell><Cell><Data ss:Type="String">Temat</Data></Cell><Cell><Data ss:Type="String">Status</Data></Cell><Cell><Data ss:Type="String">Rozwiązanie</Data></Cell><Cell><Data ss:Type="String">Poprawione w wersji</Data></Cell></Row><Row><Cell ><Data ss:Type="Number">0002684</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">natychmiastowy</Data></Cell>
 <Cell ><Data ss:Type="String">blokujący</Data></Cell>
@@ -26,8 +26,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002715</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -64,8 +64,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002734</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">drobny</Data></Cell>
@@ -83,8 +83,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002732</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">poprawka</Data></Cell>
@@ -102,8 +102,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002683</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">pilny</Data></Cell>
 <Cell ><Data ss:Type="String">błąd krytyczny</Data></Cell>
@@ -121,8 +121,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002681</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -140,8 +140,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002680</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -159,8 +159,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002678</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -178,8 +178,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002682</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">wysoki</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -197,8 +197,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002679</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">drobny</Data></Cell>
@@ -216,8 +216,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002685</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -235,8 +235,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002718</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -254,8 +254,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002704</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">niski</Data></Cell>
 <Cell ><Data ss:Type="String">drobny</Data></Cell>
@@ -273,8 +273,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002743</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">niski</Data></Cell>
 <Cell ><Data ss:Type="String">poprawka</Data></Cell>
@@ -292,8 +292,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002705</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">drobny</Data></Cell>
@@ -311,8 +311,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002706</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">drobny</Data></Cell>
@@ -330,8 +330,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002687</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -349,8 +349,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002717</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">niski</Data></Cell>
 <Cell ><Data ss:Type="String">poprawka</Data></Cell>
@@ -368,8 +368,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002711</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">natychmiastowy</Data></Cell>
 <Cell ><Data ss:Type="String">blokujący</Data></Cell>
@@ -387,8 +387,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002710</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">poprawka</Data></Cell>
@@ -406,8 +406,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002708</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">błąd krytyczny</Data></Cell>
@@ -425,8 +425,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002707</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">wysoki</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -444,8 +444,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002686</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">natychmiastowy</Data></Cell>
 <Cell ><Data ss:Type="String">blokujący</Data></Cell>
@@ -463,8 +463,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002709</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">poprawka</Data></Cell>
@@ -482,8 +482,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002712</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">poprawka</Data></Cell>
@@ -501,8 +501,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002744</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">wysoki</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -520,8 +520,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002714</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">wysoki</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -539,8 +539,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002674</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">wysoki</Data></Cell>
 <Cell ><Data ss:Type="String">ważny</Data></Cell>
@@ -558,8 +558,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002673</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">pilny</Data></Cell>
 <Cell ><Data ss:Type="String">błąd krytyczny</Data></Cell>
@@ -577,8 +577,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002672</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">niski</Data></Cell>
 <Cell ><Data ss:Type="String">poprawka</Data></Cell>
@@ -596,8 +596,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002676</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">niski</Data></Cell>
 <Cell ><Data ss:Type="String">poprawka</Data></Cell>
@@ -634,8 +634,8 @@
 <Cell ><Data ss:Type="String">otwarty</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 </Row><Row><Cell ><Data ss:Type="Number">0002671</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
-<Cell ><Data ss:Type="String">kuczynskaa</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
+<Cell ><Data ss:Type="String">kalinowska</Data></Cell>
 <Cell ><Data ss:Type="String"></Data></Cell>
 <Cell ><Data ss:Type="String">normalny</Data></Cell>
 <Cell ><Data ss:Type="String">poprawka</Data></Cell>
