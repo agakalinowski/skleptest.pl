@@ -26,3 +26,13 @@
   - In Progress: Work is actively being done to resolve the issue.
   - Closed: The issue has been resolved.
 
+## Important Information
+
+This repository contains confidential information and/or files intended solely for viewing. Please adhere to the following guidelines:
+
+- **Confidentiality:** The information within this repository is confidential, and copying or using it for commercial purposes is not allowed without prior consent.
+- **Restrictions:** Copying, reproducing, or using the content of this repository for purposes other than viewing is strictly prohibited.
+
+Please read the full documentation before using this data.
+
+Thank you for your understanding and compliance with the guidelines.
